@@ -2,9 +2,9 @@
   "name": "upload-multiple-images-mongodb",
   "version": "1.0.0",
   "description": "Node.js upload multiple files/images to MongoDB Demo",
-  "main": "src/server.js",
+  "main": "src/index.js",
   "scripts": {
-    "start": "nodemon src/server.js",
+    "start": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
